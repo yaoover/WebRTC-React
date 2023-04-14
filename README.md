@@ -1,5 +1,7 @@
 ### Introduction
 
+![sample](/client/public/Inkedme.png)
+
 build and deploy a React Video Chat Application using WebRTC.
 
 #### Setup
